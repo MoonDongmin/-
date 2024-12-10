@@ -11,3 +11,4 @@
 height="40px"/></a>
 <br>
 
+[Chapter 02. 순차 실행과 병렬 실행](https://moondongmin.notion.site/Chapter-02-158357c44e5680dcab25dca36a03b607?pvs=4)
