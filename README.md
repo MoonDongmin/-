@@ -13,4 +13,4 @@ height="40px"/></a>
 
 [Chapter 02. 순차 실행과 병렬 실행](https://moondongmin.notion.site/Chapter-02-158357c44e5680dcab25dca36a03b607?pvs=4)
 
-[Chapter 03. 컴퓨터의 동작 원리]()https://moondongmin.notion.site/Chapter-03-159357c44e568059bfa2f935a230f4c0?pvs=4
+[Chapter 03. 컴퓨터의 동작 원리](https://moondongmin.notion.site/Chapter-03-159357c44e568059bfa2f935a230f4c0?pvs=4)
