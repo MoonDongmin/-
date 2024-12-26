@@ -20,3 +20,5 @@ height="40px"/></a>
 [Chapter 05. 프로세스 간 통신](https://moondongmin.notion.site/Chapter-05-15e357c44e5680f08a44e4b0c1702e81?pvs=4)
 
 [Chapter 06. 멀티태스킹](https://moondongmin.notion.site/Chapter-06-164357c44e568054bf6adbba7d28d44c?pvs=4)
+
+[Chapter 07. 작업 분해하기](https://moondongmin.notion.site/Chapter-07-168357c44e5680be8807c3e910e444a3?pvs=4)
