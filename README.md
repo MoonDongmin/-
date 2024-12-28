@@ -22,3 +22,5 @@ height="40px"/></a>
 [Chapter 06. 멀티태스킹](https://moondongmin.notion.site/Chapter-06-164357c44e568054bf6adbba7d28d44c?pvs=4)
 
 [Chapter 07. 작업 분해하기](https://moondongmin.notion.site/Chapter-07-168357c44e5680be8807c3e910e444a3?pvs=4)
+
+[Chapter08. 동시성과 관련된 문제 해결하기: 경쟁 조건과 동기화](https://moondongmin.notion.site/Chapter08-16a357c44e56803c8350ee3330906599?pvs=4)
