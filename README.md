@@ -24,3 +24,5 @@ height="40px"/></a>
 [Chapter 07. 작업 분해하기](https://moondongmin.notion.site/Chapter-07-168357c44e5680be8807c3e910e444a3?pvs=4)
 
 [Chapter08. 동시성과 관련된 문제 해결하기: 경쟁 조건과 동기화](https://moondongmin.notion.site/Chapter08-16a357c44e56803c8350ee3330906599?pvs=4)
+
+[Chapter 09. 동시성과 관련된 문제 해결하기: 교착 상태와 기아 상태](https://moondongmin.notion.site/Chapter-09-16b357c44e568073aaf0ef7072db8df9?pvs=4)
